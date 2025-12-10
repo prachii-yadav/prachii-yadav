@@ -48,7 +48,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/>
@@ -56,23 +55,16 @@
 
 ---
 
-### ⭐ Featured Projects:
+### Featured Projects:
 
-#### **PMT-2.0 (AHASolar Project Management Tool)**  
-A SaaS platform used by 20+ EPC companies for complete solar project workflow automation.  
-- Developed **30+ REST APIs** for authentication, onboarding, subscription flows, and RBAC.  
-- Implemented database optimizations for **100k+ records**, reducing latency by **35%**.  
-- Integrated Google Maps API for real-time location features.  
-**Tech:** React.js, Redux Toolkit, Node.js, Express.js, MySQL, Google Maps API, JWT
+- **PMT-2.0 (Solar Project Management Tool)**  
+  SaaS platform used by 20+ EPC companies to manage solar workflows with real-time tracking and optimized backend APIs.  
+  *Tech: React.js, Node.js, Express.js, MySQL, Google Maps API, JWT*
 
----
+- **PC-Store (E-commerce Web App)**  
+  Custom PC builder with real-time compatibility checks and scalable modular backend architecture.  
+  *Tech: React.js, Node.js, Express.js, MySQL, REST APIs*
 
-#### **PC-Store (E-commerce Web App)**  
-A PC component builder with real-time compatibility checks.  
-- Built structured DB with **50+ tables and 20+ stored procedures**  
-- Designed REST APIs for authentication, cart system, search & product modules  
-- Implemented modular backend architecture for scalability  
-**Tech:** React.js, Node.js, Express.js, MySQL, REST APIs
 
 ---
 
