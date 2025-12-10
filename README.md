@@ -22,16 +22,19 @@
 ### 📬 Connect with me:
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/prachi-yadav" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="linkedin" height="40" width="40" />
 </a>
+
 <a href="https://github.com/prachii-yadav" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+       alt="github" height="40" width="40" />
 </a>
-<a href="mailto:prachiyadav7324@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+
 </p>
+
 
 ---
 
