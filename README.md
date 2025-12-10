@@ -13,7 +13,7 @@
 - 🤝 I'm looking to collaborate on **Hackathons and Open Source Projects**
 - 💬 Ask me about **Backend Development, API Design, SQL Optimization, and MERN Stack**
 - 📫 Reach me at **prachiyadav7324@gmail.com**
-- 📄 Check out my **[Resume](#)** (Add your resume link here)
+- 📄 📄 Check out my Resume: [Click Here](https://drive.google.com/file/d/xyz/view?usp=sharing)
 - ⚡ Fun fact: *"I turn ideas into scalable code ☕🚀"*
 
 ---
